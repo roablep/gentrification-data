@@ -1,0 +1,19 @@
+https://www.philadelphiafed.org/-/media/community-development/events/2016/research-symposium-on-gentrification/pdfs/chapple-zuk.pdf?la=en
+https://www.citylab.com/solutions/2017/02/algorithms-that-predict-gentrification/516945/
+
+https://data-x.blog/projects/gentrification-analysis-and-prediction/
+
+https://github.com/NaokoSuga/gentrification_yelp
+
+https://github.com/Hupi/Gentrification
+
+https://github.com/jreades/urb-studies-predicting-gentrification
+
+https://github.com/laggiss/DeepMapping
+
+https://data-x.blog/projects/gentrification-analysis-and-prediction/
+https://github.com/rohsuresh/datax-project
+
+
+https://www.nber.org/papers/w16237
+gentrification = proximity to rich neighborhood + demand
